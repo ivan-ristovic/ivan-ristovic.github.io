@@ -67,11 +67,6 @@ body {
     padding-top: 5px;
 }
 
-.well h1 {
-    color: beige;
-    font-size: 1.3em;
-}
-
-.well :not(.sidebar) > h1 {
+h1 .title {
     font-size: 1.7em;
 }
