@@ -12,6 +12,16 @@ body {
     padding-bottom: 60px;
 }
 
+.well {
+    background-color: #25272a;
+    color: white;
+    padding-top: 5px;
+}
+
+.well h1 {
+    font-size: 1.7em;
+}
+
 .container-left {
     margin: 0;
 }
@@ -59,14 +69,4 @@ body {
 
 .sidebar a:hover {
     color: #3071a9;
-}
-
-.well {
-    background-color: #25272a;
-    color: white;
-    padding-top: 5px;
-}
-
-h1 .title {
-    font-size: 1.7em;
 }
