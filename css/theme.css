@@ -72,6 +72,6 @@ body {
     font-size: 1.3em;
 }
 
-.content h1 {
-    font-size: 1.6em;
+.well :not(.sidebar) > h1 {
+    font-size: 1.7em;
 }
