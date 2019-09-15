@@ -16,10 +16,6 @@ body {
     margin: 0;
 }
 
-.content h1 {
-    font-size: 1.5em;
-}
-
 .copyright {
     color: #ffffff;
 }
@@ -74,4 +70,8 @@ body {
 .well h1 {
     color: beige;
     font-size: 1.3em;
+}
+
+.content h1 {
+    font-size: 1.6em;
 }
