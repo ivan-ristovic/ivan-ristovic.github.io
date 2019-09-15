@@ -1,7 +1,19 @@
+.author {
+    color: beige;
+}
+
+.author a {
+    color: beige;
+}
+
 body {
     background-color: #222222;
     padding-top: 60px;
     padding-bottom: 60px;
+}
+
+.container-left {
+    margin: 0;
 }
 
 .copyright {
@@ -9,11 +21,26 @@ body {
 }
 
 .footer {
+    background: transparent;
     text-align: center;
 }
 
 .footer a {
     color: beige;
+}
+
+.navbar {
+    background-color: #000000;
+    border-color: #21618c;
+    color: white;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+.pagination {
+    color: #ffffff;
 }
 
 .sidebar h1 {
@@ -34,28 +61,13 @@ body {
     color: #3071a9;
 }
 
-.container-left {
-    margin: 0;
-}
-
 .well {
     background-color: #25272a;
     color: white;
+    padding-top: 5px;
 }
 
 .well h1 {
     color: beige;
-    font-size: 1.3em;
-}
-
-.author {
-    color: beige;
-}
-
-.author a {
-    color: beige;
-}
-
-.pagination {
-    color: #ffffff;
+    font-size: 1.5em;
 }
