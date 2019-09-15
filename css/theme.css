@@ -39,7 +39,7 @@ body {
 }
 
 .well {
-    background-color: darkgray;
+    background-color: gainsboro;
 }
 
 .well h1 {
@@ -53,4 +53,8 @@ body {
 
 .author a {
     color: #ee4444;
+}
+
+.pagination {
+    color: #ffffff;
 }
