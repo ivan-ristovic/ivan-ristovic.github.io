@@ -67,7 +67,6 @@ body {
     padding-top: 5px;
 }
 
-.well h1 {
-    color: beige;
+.well h1 :not(.sidebar) {
     font-size: 1.5em;
 }
