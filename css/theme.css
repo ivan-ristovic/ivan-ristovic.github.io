@@ -1,5 +1,5 @@
 body {
-    background-color: #333333;
+    background-color: #222222;
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -13,11 +13,11 @@ body {
 }
 
 .footer a {
-    color: #ee4444;
+    color: beige;
 }
 
 .sidebar h1 {
-    color: #ee4444;
+    color: beige;
     font-size: 1.3em;
 }
 
@@ -39,20 +39,21 @@ body {
 }
 
 .well {
-    background-color: gainsboro;
+    background-color: #25272a;
+    color: white;
 }
 
 .well h1 {
-    color: #ee4444;
+    color: beige;
     font-size: 1.3em;
 }
 
 .author {
-    color: #ee4444;
+    color: beige;
 }
 
 .author a {
-    color: #ee4444;
+    color: beige;
 }
 
 .pagination {
