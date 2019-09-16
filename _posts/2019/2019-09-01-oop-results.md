@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati ispita u roku SEP1: 
-\[[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info/sept1/oop.sept1.ivan.pdf){:target="_blank"}\]
+[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info/sept1/oop.sept1.ivan.pdf){:target="_blank"}
 
 Uvid u radove: utorak 3. septembar u 15:30 u 716.

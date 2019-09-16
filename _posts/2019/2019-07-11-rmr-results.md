@@ -7,8 +7,8 @@ comments: false
 ---
 
 Rezultati ispita u roku JUN2: 
-\[[.ods](/courses/rm/results/2019_R/RM_4R_JUN2_2018_2019.ods){:target="_blank"}\] 
-\[[.pdf](/courses/rm/results/2019_R/RM_4R_JUN2_2018_2019.pdf){:target="_blank"}\]
+[.ods](/courses/rm/results/2019_R/RM_4R_JUN2_2018_2019.ods){:target="_blank"} 
+[.pdf](/courses/rm/results/2019_R/RM_4R_JUN2_2018_2019.pdf){:target="_blank"}
 
 Uvid u radove je moguć u petak, 12. jula od 13h-15h u 716. 
 
