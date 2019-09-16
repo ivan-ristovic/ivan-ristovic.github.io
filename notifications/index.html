@@ -28,11 +28,11 @@ layout: default
       {% if paginator.previous_page == 1 %}
         <a class="btn btn-default" href="{{ site.baseurl}}/notifications.html" class="previous">Newer</a>
       {% else %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>
+        <a class="btn btn-default" href="{{ site.baseurl}}/notifications/page{{ paginator.previous_page }}" class="previous">Newer</a>
       {% endif %}
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
+    <a class="btn btn-default" href="{{ site.baseurl}}/notifications/page{{ paginator.next_page }}" class="next">Older</a>
   {% endif %}
 </div>
