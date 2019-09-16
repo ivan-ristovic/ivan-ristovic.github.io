@@ -2,34 +2,24 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-<div class="article">
-    <div class="well">
-        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
-        {% if site.comments and post.comments %}
-            {% if site.disqus != '' %}
-            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>
-            {% elsif site.isso != '' %}
-            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
-            {% endif %}
-        {% endif %}
-        <div class="content">
-            {{ post.content }}
-        </div>
-    </div>
-</div>
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">Newer</a>
-      {% else %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>
-      {% endif %}
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
-  {% endif %}
+<div class="well">
+    <h1>Ivan Ristović</h1>
+    <p>
+        Teaching assistant trainee at Faculty of Mathematics in Belgrade.
+    </p>
+    <p>
+        I specialize mainly in C#, C and C++, but I can work in Java and Python very well. Some of my selected projects include
+        faculty projects such as team-building applications and papers. I also like to explore on my own, mainly creating
+        stuff for platforms/apps that I use at the time. I publish all of my projects to GitHub, so feel free to check them out!
+    </p>
+    <h1> Short bio </h1>
+    <p>
+        I was born in 1995 in Užice, Serbia and there I have finished primary and high school. In 2014 I started the 
+        Undergraduate studies at the Faculty of Mathematics in Belgrade. Momentarily after graduation in 2017 I 
+        started the Master Degree studies. In 2018 I was selected for an open Teaching Assistant Trainee position 
+        at the aforementioned faculty - where I remain until today.
+    </p>
+    <p>
+        In my free time I enjoy computer games (who doesn't?), snooker, tennis, board games (Chess, Othello).
+    </p>
 </div>
