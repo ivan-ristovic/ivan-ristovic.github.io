@@ -26,7 +26,7 @@ layout: default
 <div class="pagination">
   {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/notifications.html" class="previous">Newer</a>
+        <a class="btn btn-default" href="{{ site.baseurl}}/notifications/" class="previous">Newer</a>
       {% else %}
         <a class="btn btn-default" href="{{ site.baseurl}}/notifications/page{{ paginator.previous_page }}" class="previous">Newer</a>
       {% endif %}
