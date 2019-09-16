@@ -1,4 +1,2 @@
 # ivan-ristovic.github.io
-My personal webpage, mostly used for faculty courses.
-
-[](https://ivan-ristovic.github.io)
+My personal [webpage](https://ivan-ristovic.github.io), mostly used for faculty courses.
