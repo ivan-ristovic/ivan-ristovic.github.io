@@ -70,3 +70,7 @@ body {
 .sidebar a:hover {
     color: #3071a9;
 }
+
+div .post-date {
+    float: right;
+}
