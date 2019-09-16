@@ -37,3 +37,12 @@ layout: default
   <h1>Materijali sa vežbi</h1>
   <a href="https://github.com/ivan-ristovic/MATF-Computer-Networks">GitHub repozitorijum sa materijalima</a> 
 </div>
+
+<div class="well">
+  <h1>Prethodni kolokvijumi/ispiti</h1>
+  <ul>
+    {% for exam in site.courses.rm.exams %}
+        <li><a href="{{ site.baseurl}}{{ exam.url }}">test</a></li>
+    {% endfor %}
+  </ul>
+</div>
