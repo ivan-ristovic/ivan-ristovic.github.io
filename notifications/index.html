@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <div class="article">
     <div class="well">
-        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
+        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
         {% if site.comments and post.comments %}
             {% if site.disqus != '' %}
             <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>
@@ -15,6 +15,9 @@ layout: default
         {% endif %}
         <div class="content">
             {{ post.content }}
+        </div>
+        <div class="post-date">
+            {{ page.date | date: "%b %-d, %Y" }} 
         </div>
     </div>
 </div>
