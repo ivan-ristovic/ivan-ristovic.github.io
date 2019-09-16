@@ -32,7 +32,7 @@ disqus: ''
 
 permalink: /:year/:month/:title
 paginate_path: "notifications/page:num/"
-paginate: 7
+paginate: 5
 
 highlighter: rouge
 markdown: kramdown
