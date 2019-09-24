@@ -13,7 +13,7 @@ Rezultati ispita u roku SEP2:
 
 **VAŽNO**: Usmeni deo ispita će se održati dan posle pismenog ispita, dakle 
 u sredu 25. septembra od 13h. Raspored polaganja će biti objavljen na 
-[profesorovoj stranici](http://poincare.matf.bg.ac.rs/~kartelj/?content=RM){target="_blank"}.
+[profesorovoj stranici](http://poincare.matf.bg.ac.rs/~kartelj/?content=RM){:target="_blank"}.
 
 Uvid u radove je preporučljivo obaviti putem email-a zbog termina usmenog.
 Alternativno, termin uvida je 25. septembar u 10h u 716.
