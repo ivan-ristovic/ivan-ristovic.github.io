@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Otkazivanje predavanja"
-date: 2019-09-01 00:05:00 +0100
+date: 2019-10-01 00:05:00 +0100
 comments: false
 ---
 
