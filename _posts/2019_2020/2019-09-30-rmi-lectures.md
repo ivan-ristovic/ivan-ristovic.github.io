@@ -9,4 +9,4 @@ comments: false
 Ove i naredne nedelje neće biti predavanja iz RM za sve grupe. Umesto predavanja, 
 u istom terminu će biti održani časovi vežbi (u istim učionicama kao u rasporedu 
 za predavanja). Preciznije, tačni dani zamene predavanja za vežbe su sreda 
-(2. i 9. oktobar) i četvrtak (3. i 10. oktobar).
+(2. i 9. oktobar) i četvrtak (3. i 10. oktobar). 
