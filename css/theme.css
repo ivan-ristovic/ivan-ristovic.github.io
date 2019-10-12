@@ -75,3 +75,8 @@ div .post-date {
     font-size: smaller;
     text-align: right;
 }
+
+.code {
+    color: #ffffff;
+    background-color: #515151;
+}
