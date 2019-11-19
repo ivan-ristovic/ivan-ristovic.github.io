@@ -7,8 +7,8 @@ comments: false
 ---
 
 Kolokvijum se održava 24.11.2019. u dve grupe, po rasporedu:
-- 1. grupa počinje rad u 9h
-- 2. grupa počinje rad u 13h
+- Prva grupa počinje rad u 9h
+- Druga grupa počinje rad u 13h
 
 Raspored sedenja na kolokvijumu se može naći na sledećem [linku](https://drive.google.com/open?id=15lY-eh6xotLWlLp6tvfn3pucHkmD2Kzz){:target="_blank"}.
 
