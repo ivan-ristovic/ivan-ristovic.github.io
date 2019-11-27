@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati kolokvijuma: 
-[.pdf](/courses/rm/results/2019_R/RM_4R_KOL_2018_2019.pdf){:target="_blank"}
+[.pdf](/courses/rm/results/2018_2019_R/RM_4R_KOL_2018_2019.pdf){:target="_blank"}
 
 Uvid u radove je moguć na časovima vežbi ili dogovorom preko e-maila.

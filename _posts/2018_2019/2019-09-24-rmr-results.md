@@ -7,8 +7,8 @@ comments: false
 ---
 
 Rezultati ispita u roku SEP2: 
-[.ods](/courses/rm/results/2019_R/RM_4R_SEP2_2018_2019.ods){:target="_blank"} 
-[.pdf](/courses/rm/results/2019_R/RM_4R_SEP2_2018_2019.pdf){:target="_blank"}
+[.ods](/courses/rm/results/2018_2019_R/RM_4R_SEP2_2018_2019.ods){:target="_blank"} 
+[.pdf](/courses/rm/results/2018_2019_R/RM_4R_SEP2_2018_2019.pdf){:target="_blank"}
 
 
 **VAŽNO**: Usmeni deo ispita će se održati dan posle pismenog ispita, dakle 

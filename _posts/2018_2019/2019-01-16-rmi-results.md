@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati ispita u roku JAN1: 
-[.pdf](/courses/rm/results/2019_I/RM_4I_JAN1_2018_2019.pdf){:target="_blank"}
+[.pdf](/courses/rm/results/2018_2019_I/RM_4I_JAN1_2018_2019.pdf){:target="_blank"}
 
 Uvid u radove je moguć dogovorom termina putem email-a.
