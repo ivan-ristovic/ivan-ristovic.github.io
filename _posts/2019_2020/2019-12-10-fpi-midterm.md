@@ -7,7 +7,7 @@ comments: false
 ---
 
 Prijava za kolokvijum iz Funkcionalnog programiranja se može naći na 
-[linku](http://poincare.math.rs/~ivan/sys/prijavljivanje/){:target="_blank"}.
+[profesorovoj stranici](http://poincare.math.rs/~ivan/sys/prijavljivanje/){:target="_blank"}.
 Raspored polaganja će biti objavljen nakon što dobijemo konačan broj studenata.
 
 Na kolokvijumu će doći gradivo **do kolokvijumske nedelje** (do `Functor`-a, ne uključujući njih). 
@@ -15,6 +15,6 @@ Na kolokvijumu će doći gradivo **do kolokvijumske nedelje** (do `Functor`-a, n
 je okačen na profesorovoj stranici, uskoro se može naći i unutar 
 [repozitorijuma sa materijalima](https://github.com/ivan-ristovic/MATF-Functional-Programming){:target="_blank"}.
 
-Konsultacije za kolokvijum se mogu obaviti sredom posle časova vežbi iz FP (11h) 
+Konsultacije za kolokvijum se mogu obaviti u sredu posle časova vežbi iz FP (11h) 
 ili u petak pre vežbi iz RM (10h) - potražite me u 716. Takođe, konsultacije preko
 e-maila su uvek moguće.
