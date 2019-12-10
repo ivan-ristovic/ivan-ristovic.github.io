@@ -17,4 +17,4 @@ je okačen na profesorovoj stranici, uskoro se može naći i unutar
 
 Konsultacije za kolokvijum se mogu obaviti u sredu posle časova vežbi iz FP (11h) 
 ili u petak pre vežbi iz RM (10h) - potražite me u 716. Takođe, konsultacije preko
-e-maila su uvek moguće.
+e-maila su uvek moguće. Na sutrašnjem času će se raditi primer kolokvijuma.
