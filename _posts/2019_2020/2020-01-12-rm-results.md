@@ -20,12 +20,7 @@ Rezultati vanrednog kolokvijuma:
 
 Uvid u radove je moguć dogovorom termina putem email-a (ili u celosti putem mail-a).
 
-
-
-
-
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 đđđđđđđ
 (ovo nije greska)
