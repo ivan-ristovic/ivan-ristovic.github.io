@@ -11,8 +11,8 @@ Rezultati ispita za I smer:
 [.pdf](/courses/rm/results/2019_2020_I/RM_4I_JAN1_2019_2020.pdf){:target="_blank"}
 
 Rezultati ispita za R smer: 
-[.ods](/courses/rm/results/2018_2019_R/RM_4R_JAN1_2019_2020.ods){:target="_blank"}
-[.pdf](/courses/rm/results/2018_2019_R/RM_4R_JAN1_2019_2020.pdf){:target="_blank"}
+[.ods](/courses/rm/results/2018_2019_R/RM_4R_JAN1_2018_2019.ods){:target="_blank"}
+[.pdf](/courses/rm/results/2018_2019_R/RM_4R_JAN1_2018_2019.pdf){:target="_blank"}
 
 Rezultati vanrednog kolokvijuma: 
 [.ods](/courses/rm/results/2019_2020_I/RM_4I_VKOL_2019_2020.ods){:target="_blank"}
