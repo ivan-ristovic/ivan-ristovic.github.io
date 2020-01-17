@@ -20,6 +20,8 @@ Rezultati vanrednog kolokvijuma:
 
 Uvid u radove je moguć dogovorom termina putem email-a (ili u celosti putem mail-a).
 
+**DOPUNA** Dodatni termin za uvid u radove je nedelja, 19.01. u 15:30.
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 đđđđđđđ
