@@ -7,4 +7,4 @@ comments: false
 ---
 
 Raspored sedenja za ispit u roku JAN1PS se može naći na sledećem
-[linku](https://matfoop.github.io/OOP/pismeni-ispiti/info/){:target="_blank"}.
+[linku](https://matfoop.github.io/OOP/pismeni-ispiti/info#јануар1пс---распоред-студената){:target="_blank"}.

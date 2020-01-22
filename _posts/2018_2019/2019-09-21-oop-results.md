@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati ispita u roku SEP2: 
-[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info/sept2/oop.sept2.ivan.pdf){:target="_blank"}
+[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info#септембар2---резултати-практичног-дела-испита){:target="_blank"}
 
 Uvid u radove je moguće obaviti putem e-maila.

@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati ispita u roku JAN1: 
-[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info/){:target="_blank"}
+[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info#јануар1пс---резултати-практичног-дела-испита){:target="_blank"}
 
 Uvid u radove je moguć dogovorom termina putem e-maila.

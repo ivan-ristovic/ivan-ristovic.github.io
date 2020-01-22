@@ -7,7 +7,6 @@ comments: false
 ---
 
 Rezultati ispita u roku JUN1: 
-[.ods](/courses/oop/results/2019/oop_jun1_2019.ods){:target="_blank"} 
-[.pdf](/courses/oop/results/2019/oop_jun1_2019.pdf){:target="_blank"}
+[.pdf](https://matfoop.github.io/OOP/pismeni-ispiti/info#јун1---резултати-практичног-дела-испита){:target="_blank"}
 
 Uvid u radove je moguć dogovorom termina putem e-maila.
