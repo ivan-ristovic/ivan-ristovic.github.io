@@ -1,7 +1,7 @@
 ---
 layout: post
 course: FP 4I
-title: "Rezultati (JAN1)"
+title: "Rezultati (JAN2)"
 date: 2020-02-04 17:50:00 +0100
 comments: false
 ---
