@@ -1,6 +1,6 @@
 ---
 layout: post
-course: SVI
+course: Svi
 title: "Konsultacije (JUN1)"
 date: 2020-05-24 14:40:00 +0100
 comments: false
