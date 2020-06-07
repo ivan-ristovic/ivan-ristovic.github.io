@@ -12,3 +12,5 @@ se dogovore interno kada im najviše odgovara i dostave mi termine konsultacija
 za pomenute kurseve. 
 
 Konsultacije neće biti držane nakon 12.06.
+
+Dodatak: Konsultacije će biti održane 08.06. u 13:15 u 716.
