@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Rezultati (SEP1)"
-date: 2020-08-28 23:45:00 +0100
+date: 2020-08-26 23:45:00 +0100
 comments: false
 ---
 
