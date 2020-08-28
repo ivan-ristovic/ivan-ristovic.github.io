@@ -1,6 +1,6 @@
 ---
 layout: post
-course: RM 4I
+course: FP 4I
 title: "Rezultati (SEP1)"
 date: 2020-08-28 13:15:00 +0100
 comments: false
