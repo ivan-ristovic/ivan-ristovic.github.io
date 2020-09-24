@@ -8,5 +8,6 @@ comments: false
 
 Rezultati ispita za I smer: 
 [.pdf](/courses/rm/results/2019_2020_I/RM_4I_SEP3_2019_2020.pdf){:target="_blank"}
+[objava kod koleginice Božice](http://www.matf.bg.ac.rs/p/bozica-kalinic/vest/8904/rm-sept3-rezultati/){:target="_blank"}
 
-Uvid u radove je moguć slanjem email-a na [](bozica_kalinic@math.rs).
+Uvid u radove je moguć slanjem email-a na [bozica_kalinic@math.rs](bozica_kalinic@math.rs).
