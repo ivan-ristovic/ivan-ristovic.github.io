@@ -23,7 +23,7 @@ body {
 }
 
 .container-left {
-    margin: 0;
+    margin: 0 auto;
 }
 
 .copyright {
@@ -43,6 +43,11 @@ body {
     background-color: #000000;
     border-color: #21618c;
     color: white;
+}
+
+.navbar-fixed-top {
+    display: flex;
+    justify-content: center;
 }
 
 .navbar-brand {
