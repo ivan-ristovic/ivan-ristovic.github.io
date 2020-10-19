@@ -22,6 +22,10 @@ body {
     font-size: 1.6em;
 }
 
+.well i {
+    font-size: 1.6em;
+}
+
 .container-left {
     margin: 0 auto;
 }
