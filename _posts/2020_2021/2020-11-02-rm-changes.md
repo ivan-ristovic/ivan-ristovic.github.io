@@ -6,9 +6,9 @@ date: 2020-11-02 11:30:00 +0100
 comments: false
 ---
 
-### Zamena predavača
+#### Zamena predavača
 
-Pošto koleginica Božica neće više raditi kao saradnik u nastavi na Fakultetu od naredne nedelje, 
+Pošto koleginica Božica neće više raditi kao saradnik u nastavi na Fakultetu od ove nedelje, 
 časove u prvoj nedelji novembra za grupe 3 i 4 ću održati ja, po rasporedu časova. Dakle, u 
 sredu of 12h i u petak od 13h časovi će biti održani u mojoj Webex sobi za sastanke. Što se tiče
 snimaka časova vežbi, i dalje ću ih kačiti po planu kao i do sad (grupe od srede/četvrtka u odnosu
@@ -16,7 +16,7 @@ na broj ljudi i kvalitet YouTube snimka). Molim kolege iz grupa 3 i 4 da prate o
 mojoj stranici, barem u narednih par nedelja.
 
 
-### Projekti
+#### Projekti
 
 Nije moguće napraviti sve repozitorijume i timove unutar organizacije pošto nisu svi studenti 
 prihvatili pozivnicu za pristup organizaciji. Kako bi bilo fer prema svima i kako bi svi imali 
