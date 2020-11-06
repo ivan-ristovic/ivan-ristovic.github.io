@@ -29,7 +29,7 @@ Zamolili bismo stoga **studente iz grupe 4** (koji časove imaju **sredom u 12h*
 [anketu](https://forms.gle/HYPZtBEaqW9AFBou6) kako bismo odabrali termin nadoknade koji svima odgovara. 
 Odlučićemo se za jedan od naredna dva pristupa, u zavisnosti od toga da li je odabrana:
   - *nadoknada nakon 12. novembra*: grupa **1** neće imati časove 12. novembra i tako će
-  sve grupe kasniti jedan čas u odnosu na plan nastave ali će biti sinhronizovane (ovo doduše 
+  sve grupe kasniti jedan čas u odnosu na plan vežbi ali će biti sinhronizovane (ovo doduše 
   znači da će biti neophodno održati nastavu u poslednjoj nedelji semestra)
   - *nadoknada pre 12. novembra*: otvorićemo još jednu anketu za grupe **2, 3 i 4** u svrhu
   odabira termina u subotu 14. novembra, kako bi te grupe dostigle grupu **1** (u tom slučaju bi 
