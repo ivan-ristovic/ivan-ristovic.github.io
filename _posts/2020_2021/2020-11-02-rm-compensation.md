@@ -12,13 +12,10 @@ Pošto je naredna sreda (11. novembar) neradni dan, grupe koje imaju časove sre
 u odnosu na ostale grupe. Štaviše, grupe koje su imaće časove kod koleginice Božice već kasne jednu 
 nedelju u odnosu na plan vežbi i onda se situacija znatno pogoršava. Naime nakon naredne nedelje, 
 ukoliko se nastavi ovako, situacija bi bila sledeća:
-
-| grupa | kašnjenje |
-|:-----:|:---------:|
-|   1   |  na vreme |
-|   2   |  1 tročas |
-|   3   |  1 tročas |
-|   4   | 2 tročasa |
+  - grupa 1 nema zaostatak
+  - grupa 2 kasni 1 tročas
+  - grupa 3 kasni 1 tročas
+  - grupa 4 kasni 2 tročasa
 
 Stoga, kako bismo sve grupe sinhronizovali i tako olakšali studentima praćenje nastave ali i prelazak
 između grupa, planiramo da održimo nadoknadu časova za grupe koje kasne (ili bi kasnile ukoliko se 
@@ -43,7 +40,6 @@ Molimo kolege da prijave potencijalne greške (kreiranje timova i repozitorijuma
 
 Srećan rad!
 
-<br>
 <br>
 
 Hvala na razumevanju i izdvojenom vremenu!
