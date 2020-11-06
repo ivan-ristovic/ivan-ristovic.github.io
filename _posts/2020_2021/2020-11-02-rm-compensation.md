@@ -9,7 +9,7 @@ comments: false
 #### Sinhronizacija časova vežbi
 
 Pošto je naredna sreda (11. novembar) neradni dan, grupe koje imaju časove sredom će biti u zaostatku
-u odnosu na ostale grupe. Štaviše, grupe koje su imaće časove kod koleginice Božice već kasne jednu 
+u odnosu na ostale grupe. Štaviše, grupe koje su imale časove kod koleginice Božice već kasne jednu 
 nedelju u odnosu na plan vežbi i onda se situacija znatno pogoršava. Naime nakon naredne nedelje, 
 ukoliko se nastavi ovako, situacija bi bila sledeća:
   - grupa 1 nema zaostatak
