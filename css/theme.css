@@ -23,6 +23,10 @@ blockquote {
     padding-top: 5px;
 }
 
+.well blockquote {
+    border-color: #21618c;
+}
+
 .well h1 {
     font-size: 1.6em;
 }
