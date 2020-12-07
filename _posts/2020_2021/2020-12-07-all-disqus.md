@@ -12,6 +12,6 @@ stranici objave. Na ovaj način možete mi neposredno poslati mail sa pitanjima 
 će biti javno vidljiva na stranici objave.
 
 Zašto Disqus? Mislim da je Disqus jedna od popularnijih (ako ne i najpopularnija) platforma
-za diskusije. Poznat mi je već dugo, a i lično sam ga koristio duže vreme. Razmišljao sam i 
+za diskusije. Poznat mi je već duže vreme i koristio sam ga veoma dugo. Razmišljao sam i 
 o Isso kao opciji, možda u nekom trenutku povežem i njega. Za sada, nadam se da će ovi dodaci
 da povećaju produktivnost i komunikaciju.
