@@ -2,7 +2,7 @@
 layout: post
 course: Svi
 title: "Komentari na objave kroz Disqus"
-date: 2020-07-20 13:50:00 +0100
+date: 2020-07-20 14:00:00 +0100
 comments: true
 ---
 
