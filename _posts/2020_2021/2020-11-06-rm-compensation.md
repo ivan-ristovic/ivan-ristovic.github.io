@@ -3,7 +3,7 @@ layout: post
 course: RM 4I
 title: "Sinhronizacija časova / Projekti"
 date: 2020-11-06 23:30:00 +0100
-comments: true
+comments: false
 ---
 
 #### Sinhronizacija časova vežbi
