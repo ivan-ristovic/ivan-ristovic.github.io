@@ -3,7 +3,7 @@ layout: post
 course: RM 4I
 title: "Nadoknada vežbi"
 date: 2020-11-10 23:30:00 +0100
-comments: false
+comments: true
 ---
 
 Grupa 4 je izglasala da nadoknadu žele da odrade u subotu. Termin nadoknade (kod 
