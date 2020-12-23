@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Datum odbrane projekata"
-date: 2020-11-20 22:30:00 +0100
+date: 2020-12-20 22:30:00 +0100
 comments: true
 ---
 
