@@ -1,0 +1,15 @@
+---
+layout: post
+course: RM 4I
+title: "Datum odbrane projekata"
+date: 2020-11-20 22:30:00 +0100
+comments: true
+---
+
+Po dogovoru sa kolegama na današenjm času, otvorena je 
+[forma](https://forms.gle/s3bNmonosPavyp45A){:target="_blank"}
+na kojoj možete glasati za jedan od termina odbrane projekata. 
+Ukoliko želite da predložite dodatne termine, javite mi mailom.
+
+Forma će biti otvorena do kraja meseca, nakon čega će biti objavljeni
+rezultati.
