@@ -7,6 +7,6 @@ comments: false
 ---
 
 Rezultati ispita za I smer: 
-[.pdf](/courses/rm/results/2019_2020_I/RM_2020_2021_I.pdf){:target="_blank"}
+[.pdf](/courses/rm/results/2020_2021_I/RM_2020_2021_I.pdf){:target="_blank"}
 
 Uvid u radove je moguć putem email-a a zatim po potrebi i preko Webex-a.
