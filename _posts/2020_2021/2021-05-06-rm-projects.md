@@ -7,7 +7,7 @@ comments: true
 ---
 
 Molimo timove koji planiraju da projekte brane krajem ovog semestra da se prijave
-mailom ili meni ali jednoj od asistentkinja do **16. maja**.
+mailom do **16. maja**.
 
 Odbrane će biti organizovane nakon što istekne rok za izradu seminarskog rada - **24. maj**.
 
