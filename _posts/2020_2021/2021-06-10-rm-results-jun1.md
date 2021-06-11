@@ -1,7 +1,7 @@
 ---
 layout: post
 course: RM 4I
-title: "Rezultati (JAN1)"
+title: "Rezultati (JUN1)"
 date: 2021-06-10 23:59:00 +0100
 comments: false
 ---
