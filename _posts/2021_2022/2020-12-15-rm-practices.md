@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Plan aktivnosti u preostalim nedeljama semestra"
-date: 2021-12-15 10:30:00 +0100
+date: 2021-12-15 15:30:00 +0100
 comments: false
 ---
 
