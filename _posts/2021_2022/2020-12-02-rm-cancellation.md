@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Pomeranje termina vežbi za grupu 2"
-date: 2021-12-04 10:30:00 +0100
+date: 2021-12-02 10:30:00 +0100
 comments: false
 ---
 
