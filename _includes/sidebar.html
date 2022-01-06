@@ -2,10 +2,6 @@
   <h1>{{ site.description }}</h1>
 </div>
 
-<div class="sidebar well">
-    {% include news-list.html %}
-</div>
-    
 <!-- TODO remove -->
 <div class="sidebar well">
   <h1>Meeting locations</h1>
@@ -13,15 +9,6 @@
     <li><a href='https://matf.webex.com/meet/ivan_ristovic'>Webex (primary)</a></li>
     <li><a href='https://discord.gg/N6BM29bnqt'>Discord</a></li>
   </ul>
-</div>
-
-<div class="sidebar well">
-    <h1>Notifications (in Serbian)</h1>
-    <ul>
-        {% for post in site.posts limit:5 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}">[{{ post.course }}] {{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
 </div>
 
 <div class="sidebar well">
