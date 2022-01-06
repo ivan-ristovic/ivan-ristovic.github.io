@@ -39,6 +39,10 @@ blockquote {
     margin: 0 auto;
 }
 
+.container-right {
+    margin: 0 auto;
+}
+
 .copyright {
     color: #ffffff;
 }
