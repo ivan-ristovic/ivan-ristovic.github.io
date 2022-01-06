@@ -27,19 +27,11 @@ blockquote {
     border-color: #21618c;
 }
 
-.well h1 {
-    font-size: 1.6em;
-}
-
 .iconwell {
     font-size: 35px;
 }
 
 .container-left {
-    margin: 0 auto;
-}
-
-.container-right {
     margin: 0 auto;
 }
 
