@@ -14,7 +14,7 @@ baseurl: ''
 
 # These can be '' to hide the Github or Gitlab nav buttons
 github: 'ivan-ristovic/'
-gitlab: ''
+gitlab: 'ivan-ristovic/'
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
