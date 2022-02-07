@@ -1,8 +1,8 @@
 ---
 layout: post
 course: RM 4I
-title: "Rezultati (JAN1)"
-date: 2022-01-21 13:30:00 +0100
+title: "Rezultati (JAN2)"
+date: 2022-02-07 11:00:00 +0100
 comments: false
 ---
 
