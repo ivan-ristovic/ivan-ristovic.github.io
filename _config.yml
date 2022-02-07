@@ -12,6 +12,9 @@ url: https://ivan-ristovic.github.io/
 #     run it like so: jekyll serve --baseurl=''
 baseurl: ''
 
+# Appointments URL
+appointments: https://cloud.ristovic.net/index.php/apps/appointments/pub/YR2YqtUXzVk%3D/form 
+
 # These can be '' to hide the Github or Gitlab nav buttons
 github: 'ivan-ristovic/'
 gitlab: 'ivan-ristovic/'

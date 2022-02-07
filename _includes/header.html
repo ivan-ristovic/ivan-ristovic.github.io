@@ -35,6 +35,8 @@
                     <li class="active"><a href="{{ site.baseurl }}/news">News</a></li>
                     <li class="active"><a href="{{ site.baseurl }}/notifications">Notifications (Serbian)</a></li>
                     <li class="active"><a href="{{ site.baseurl }}/courses.html">Courses</a></li>
+                    {% if site.appointments != '' %}
+                    <li class="active"><a href="{{ site.appointments }}">Appointments</a></li>
                     {% if site.github != '' %}
                     <li class="active"><a href="https://github.com/{{ site.github }}">GitHub</a></li>
                     {% endif %}
