@@ -27,8 +27,9 @@ while IFS= read -r c; do
     fi
 done <<< "$COURSES"
 if [ -z ${FOUND_COURSE+0} ]; then
-    if [[ $COURSE == "SVI" ]]; then
-        $COURSE="Svi"
+    if [[ $COURSE == "SVI" || $COURSE == "ALL" ]]; then
+        COURSE="Svi"
+        COURSE_TAG="all" 
     else
         echo "Unknown course: $COURSE"
         echo "Known courses:"
