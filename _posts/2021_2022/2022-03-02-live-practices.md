@@ -1,7 +1,7 @@
 ---
 layout: post
 course: PP 3I, FP 4I
-title: "<s>Montevideo</s> MATF, vidimo se!"
+title: "MATF, vidimo se!"
 date: 2022-03-02 12:30:00 +0100
 comments: false
 ---
