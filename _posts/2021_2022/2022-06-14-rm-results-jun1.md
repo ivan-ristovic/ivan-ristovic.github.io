@@ -2,7 +2,7 @@
 layout: post
 course: RM 4I
 title: "Rezultati (JUN1)"
-date: 2022-06-14 11:00:00 +0100
+date: 2022-06-14 10:00:00 +0200
 comments: false
 ---
 
