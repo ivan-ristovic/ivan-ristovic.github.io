@@ -36,5 +36,16 @@ layout: default
     <ul>
       <li>Added PyCharm on request</li>
     </ul>
+    Troubleshooting
+    <ul>
+      <li>Make sure that the VM is properly downloaded and extracted.</li>
+      <li>When running for the first time, make sure to select the "I copied it" option when prompted with a VM migration question.</li>
+      <li>If using VMware and the VM boots to a black screen, make sure that the Display settings in the VMware VM settings tab have the following:</li>
+      <ul>
+        <li>Accelerated 3D graphics is enabled</li>
+        <li>VRAM is set to atleast 512MB</li>
+      </ul>
+      <li>Booting the display using an alternative, lightweight window manager is also possible, and can be used as a last-resort method if everything else fails. Use <code>Ctrl + Alt + F2</code> to open the text terminal. Login with the <code>user</code> account credentials (password matches the user name). Run <code>startx</code> to start the alternative window manager.</li>
+    </ul>
   </p>
 </div>
