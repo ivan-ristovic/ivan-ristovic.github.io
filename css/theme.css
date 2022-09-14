@@ -1,13 +1,13 @@
 .author {
-    color: beige;
+    color: #d8d4cf;
 }
 
 .author a {
-    color: beige;
+    color: #d8d4cf;
 }
 
 body {
-    background-color: #222222;
+    background-color: #1a1c1d;
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -18,8 +18,9 @@ blockquote {
 }
 
 .well {
-    background-color: #25272a;
-    color: white;
+    background-color: #1e2021;
+    border-color: rgb(56, 61, 63);
+    color: #d8d4cf;
     padding-top: 5px;
 }
 
@@ -40,7 +41,7 @@ blockquote {
 }
 
 .copyright {
-    color: #ffffff;
+    color: #d8d4cf;
 }
 
 .footer {
@@ -49,13 +50,13 @@ blockquote {
 }
 
 .footer a {
-    color: white;
+    color: #d8d4cf;
 }
 
 .navbar {
     background-color: #000000;
-    border-color: #21618c;
-    color: white;
+    border-color: #2772a4;
+    color: #d8d4cf;
 }
 
 .navbar-fixed-top {
@@ -64,15 +65,15 @@ blockquote {
 }
 
 .navbar-brand {
-    color: #ffffff;
+    color: #d8d4cf;
 }
 
 .pagination {
-    color: #ffffff;
+    color: #d8d4cf;
 }
 
 .sidebar h1 {
-    color: white;
+    color: #d8d4cf;
     font-size: 1.3em;
 }
 
@@ -95,6 +96,6 @@ div .post-date {
 }
 
 code {
-    color: #ffffff;
+    color: #d8d4cf;
     background-color: #515151;
 }
