@@ -1,7 +1,7 @@
 ---
 layout: post
 course: RM 4I
-title: "Rezultati (SEP1)"
+title: "Rezultati (SEP2)"
 date: 2022-09-26 08:00:00 +0200
 comments: false
 ---
