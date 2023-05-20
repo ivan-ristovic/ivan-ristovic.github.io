@@ -1,0 +1,97 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Belgrade, Faculty of Mathematics
+      year: 2020 - present
+      description:
+        - Mentor <i>Milena Vujošević Janičić</i>
+    - title: MSc
+      institution: University of Belgrade, Faculty of Mathematics
+      year: 2017 - 2020
+      description:
+        - Thesis <i>"Semantic comparison of structurally similar imperative code segments"</i>
+        - Mentor <i>Milena Vujošević Janičić</i>
+    - title: BSc
+      institution: University of Belgrade, Faculty of Mathematics
+      year: 2014 - 2017
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Senior Researcher
+      institution: Oracle Labs, Belgrade
+      year: 2023 - present
+      description:
+        - General GraalVM Native Image development
+        - GraalOS
+
+    - title: Researcher
+      institution: Oracle Labs, Belgrade
+      year: 2021 - 2023
+      description:
+        - Java Platform Module System compatibility of GraalVM Native Image
+        - Startup improvements of Espresso, a metacircular JVM implemented using Truffle
+
+    - title: Teaching Assistant
+      institution: University of Belgrade, Faculty of Mathematics
+      year: 2020 - present
+      description:
+        - Programming Paradigms, Computer Networks, Functional Programming, Software Development II, Software Verification
+
+    - title: Teaching Assistant trainee
+      institution: University of Belgrade, Faculty of Mathematics
+      year: 2018 - 2020
+      description:
+        - OOP, Programming Paradigms, Computer Networks
+
+- title: Open Source Projects (see Projects and Repositories)
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ivan-ristovic/the-godfather">the-godfather</a>
+      year: 2015 - present
+      description: A feature-rich general-purpose Discord bot
+    - title: <a href="https://github.com/LINVAST">LINVAST</a>
+      year: 2019 - present
+      description: A language-invariant AST abstraction with tools to create, use and visualize ASTs
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - Annual Honorary Mention of the Mathematical Institute of the Serbian Academy of Sciences and Arts in the field of computing for MSc students
+    - year: 2012 - 2018
+      items: 
+        - Scholarship of the Ministry of Education, Science and Technological Development
+    - year: 2014
+      items: 
+        - Diploma <i>Vuk Karadžić</i>, for distinguished performance in high school    
+    - year: 2011
+      items: 
+        - Scholarship of the City of Užice
+    - year: 2010
+      items: 
+        - <i>Student of the Generation</i> awards in Mathematics, Physics, Chemistry and the English language 
+    - year: 2008 - 2010
+      items: 
+        - 1st places in regional primary school Mathematics and English competitions
+        - 2nd places in regional primary school Physics and Chemistry competitions 
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Programming languages
+      items: 
+        - Programming language design and implementation
+        - Functional programming
+    - title: Software development, scaling and verification
+      items:
+        - Enterprise software development ecosystems (.NET, Java)
+        - Microservice architecture
+        - Serverless architecture
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Computer games, Rally, Chess, Snooker
