@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://web.ristovic.net//sitemap.xml
+Sitemap: https://web.ristovic.net/sitemap.xml
