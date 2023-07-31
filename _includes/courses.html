@@ -11,7 +11,7 @@
       <div id="{{ course.tag }}" class="col-sm-1">
           <div class="links">
             {% if course.redirect -%}
-            <a class="abstract btn btn-sm z-depth-0" role="button" href="{{ course.redirect }}">iInfo</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button" href="{{ course.redirect }}">Info</a>
             {%- else -%}
             <a class="abstract btn btn-sm z-depth-0" role="button" href="{{ course.url | relative_url }}">Info</a>
             {%- endif %}
