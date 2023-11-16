@@ -7,7 +7,7 @@ description: MSc Informatics
 github: https://github.com/MatfRS2
 redirect: https://matfrs2.github.io/RS2/
 github_stars: false
-importance: 2
-category: Masters
+importance: 4
+category: Previous
 ---
 
