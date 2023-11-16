@@ -7,6 +7,6 @@ description: BSc Informatics, Year 3
 redirect: https://matf.ristovic.net/courses/pp/
 github: https://github.com/matf-pp
 github_stars: false
-importance: 2
+importance: 3
 category: Previous
 ---

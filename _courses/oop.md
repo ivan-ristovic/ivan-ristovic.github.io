@@ -7,7 +7,7 @@ description: BSc Informatics, Year 2
 redirect: https://matf.ristovic.net/courses/oop/
 github: https://github.com/MatfOOP-I
 github_stars: false
-importance: 1
+importance: 4
 category: Previous
 ---
 
