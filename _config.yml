@@ -8,7 +8,7 @@ middle_name:
 last_name: Ristović
 email: contact@ristovic.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my web page. Template based on [*folio](https://github.com/bogoli/-folio) design.
+  Template based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -138,10 +138,10 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: ivan-ristovic/website-v2 # <your-github-user-name>/<your-github-repo-name>
-  repo_id: TODO
+  repo: ivan-ristovic/ivan-ristovic.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id:                       # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments             # name of the category under which discussions will be created
-  category_id: TODO 
+  category_id:                   # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
