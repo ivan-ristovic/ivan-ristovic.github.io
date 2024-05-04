@@ -10,7 +10,7 @@ nav_order: 7
 
 ## Appointment booking
 
-Please [book an appointment](https://cloud.ristovic.net/index.php/apps/appointments/pub/YR2YqtUXzVk%3D/form)
+Please [book an appointment](https://cloud.ristovic.net/apps/appointments/pub/cABBV788qaQQMyGZ/form)
 at least 3 days in advance so  that we can schedule an exact time location for the meeting or decide on a 
 conference tool that will be used in case of an online meeting. Thank you.
 
@@ -18,6 +18,6 @@ _Note: Please consider that I have limited time during exam periods, especially 
 
 ## Online meeting links
 - [Webex](https://matf.webex.com/meet/ivan_ristovic) (for classes and consultations)
-- [Nextcloud Talk](https://cloud.ristovic.net/index.php/apps/appointments/pub/YR2YqtUXzVk%3D/form) (personal conferencing platform)
+- [Nextcloud Talk](https://cloud.ristovic.net/apps/appointments/pub/cABBV788qaQQMyGZ/form) (personal conferencing platform)
 
 
