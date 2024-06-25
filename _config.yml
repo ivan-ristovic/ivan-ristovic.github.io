@@ -70,16 +70,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username:   ivan-ristovic # your GitHub user name
-gitlab_username:   ivan-ristovic # your GitLab user name
-twitter_username:  I_Ristovic    # your Twitter handle
-mastodon_username:               # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: ivan-ristovic # your LinkedIn user name
-telegram_username:               # your Telegram user name
-scholar_userid:    ELya8c8AAAAJ  # your Google Scholar ID
-semanticscholar_id:              # your Semantic Scholar ID
-whatsapp_number:                 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-1679-3848 # your ORCID ID
+github_username:   ivan-ristovic        # GitHub user name
+gitlab_username:   ivan-ristovic        # GitLab user name
+twitter_username:  I_Ristovic           # Twitter handle
+matrix_id:         "@ivan:ristovic.net" # Matrix identity in the format @username:org, e.g., @user:matrix.org
+mastodon_username:                      # mastodon instance+username in the format instance.tld/@username
+linkedin_username: ivan-ristovic        # LinkedIn user name
+telegram_username:                      # Telegram user name
+scholar_userid:    ELya8c8AAAAJ         # Google Scholar ID
+semanticscholar_id:                     # Semantic Scholar ID
+whatsapp_number:                        # WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0000-0002-1679-3848           # ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
