@@ -8,4 +8,4 @@ related_posts: false
 
 After many requests to make a guide or a showcase of how I organize my self-hosted cloud service stack, I have decided to make a template repository with a guide for people who wish to delve into the self-hosting adventures.
 
-[[Project page](/projects/cloud.md)] [[GitHub repository](https://github.com/ivan-ristovic/cloud)]
+[[Project page](/projects/cloud)] [[GitHub repository](https://github.com/ivan-ristovic/cloud)]
