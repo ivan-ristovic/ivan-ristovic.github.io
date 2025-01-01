@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Self-Hosted Cloud Service Stack
+title: Cloud
 description: A scalable and easy-to-deploy self-hosting cloud service architecture that powers my digital life.
 img: assets/img/projects/cloud.png
 github: https://github.com/ivan-ristovic/cloud
