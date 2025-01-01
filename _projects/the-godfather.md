@@ -4,7 +4,7 @@ title: The Godfather
 description: A feature-rich general-purpose Discord bot
 img: assets/img/projects/gf.png
 github: https://github.com/ivan-ristovic/the-godfather
-github_stars: false
+github_stars: true
 importance: 1
 category: top
 ---
