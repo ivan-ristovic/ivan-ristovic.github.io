@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ExtCloud template repository
-date: 2025-01-01 16:11:00-0400
+date: 2025-01-01 14:11:00+0100
 inline: false
 related_posts: false
 ---
