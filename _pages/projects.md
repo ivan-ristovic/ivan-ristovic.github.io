@@ -5,7 +5,7 @@ permalink: /projects/
 description: A showcase of my selected projects.
 nav: true
 nav_order: 4
-display_categories: [top, games, productivity]
+display_categories: [top, misc, productivity, tools]
 horizontal: false
 ---
 
